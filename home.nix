@@ -139,7 +139,13 @@
 
     zed-editor = {
       enable = true;
-      extensions = ["elixir" "material-icon-theme" "new-darcula"  "nix" "toml"];
+      extensions = [
+        "elixir"
+        "material-icon-theme"
+        "new-darcula"
+        "nix"
+        "toml"
+      ];
     };
 
     zsh = {
