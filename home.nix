@@ -21,7 +21,9 @@
     orca-slicer
 
     # AI
+    llama-cpp
     lmstudio
+    # vllm
 
     # Browsers
     firefox-devedition
@@ -34,6 +36,7 @@
     bitwarden-desktop
 
     # Editors / IDE helpers
+    binwalk
     jetbrains-toolbox
 
     # Hardware utilities
