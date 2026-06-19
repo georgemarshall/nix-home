@@ -117,6 +117,7 @@
       settings = {
         user.name = "George Marshall";
         user.email = "george@georgemarshall.name";
+        safe.directory = [ "/etc/nixos" ];
       };
     };
 
